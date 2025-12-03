@@ -1,0 +1,6 @@
+config BR2_PACKAGE_HELLO_WORLD
+	bool "hello-world"
+	depends on BR2_LINUX_KERNEL
+	help
+	  Hello Worlds Kernel Module
+	  http://www.kernel.org
