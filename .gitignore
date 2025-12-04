@@ -13,3 +13,4 @@
 *.rej
 *~
 *.pyc
+board/custom/rootfs_overlay/root/.ssh/*
